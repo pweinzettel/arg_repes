@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,LU1PAA-V,146.190000,+,0.600000,Tone,88.5,88.5,023,NN,NFM,5.00,,,,,,
+1,LU1PAA-V,146.220000,+,0.600000,Tone,94.8,88.5,023,NN,NFM,5.00,,,,,,
+2,LU1PAA-V,146.280000,+,0.600000,Tone,88.5,88.5,023,NN,NFM,5.00,,,,,,

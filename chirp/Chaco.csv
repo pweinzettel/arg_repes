@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,LU4GO-V,147.735000,-,0.600000,Tone,107.2,88.5,023,NN,NFM,5.00,,,,,,

@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,LU5RC-V,144.745000,+,0.600000,Tone,173.8,88.5,023,NN,NFM,5.00,,,,,,
+1,LU5RC-V,147.750000,-,0.600000,Tone,118.8,88.5,023,NN,NFM,5.00,,,,,,
+2,LU5RC-V,147.840000,-,0.600000,Tone,156.7,88.5,023,NN,NFM,5.00,,,,,,
